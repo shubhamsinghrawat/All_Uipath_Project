@@ -1,0 +1,45 @@
+{
+  "name": "RPA_Challenge_PDFExtraction",
+  "description": "PDF Extraction",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Microsoft.Activities": "[1.0.1]",
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "UiPath": "[20.4.7422.14731]",
+    "UiPath.Cognitive.Activities": "[2.2.4]",
+    "UiPath.Excel.Activities": "[2.8.0-preview]",
+    "UiPath.IntelligentOCR.Activities": "[4.5.0]",
+    "UiPath.Mail.Activities": "[1.8.0-preview]",
+    "UiPath.PDF.Activities": "[3.2.2]",
+    "UiPath.System.Activities": "[19.12.0-preview]",
+    "UiPath.UIAutomation.Activities": "[19.12.0-preview]",
+    "UiPath.Vision": "[2.0.3]",
+    "UiPath.WebAPI.Activities": "[1.4.4]",
+    "UiPathTeam.JsonDataConverter.Activities": "[1.1.0]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.10.2.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfos": []
+  },
+  "expressionLanguage": "VisualBasic"
+}

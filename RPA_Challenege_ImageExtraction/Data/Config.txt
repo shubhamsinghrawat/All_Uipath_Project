@@ -1,0 +1,13 @@
+{
+
+"Project_Name" : "RPA Challenge PDF Extraction",
+
+"Exception_excelpath" : "C:\\Users\\Shubham Singh\\Desktop\\MY_PROJECTS\\UIpath project\\RPA_Challenege_ImageExtraction\\Data\\Exception_Excel.xlsx",
+"Exception_excelsheet":"exception",
+
+"Web_Link": "https://rpachallengeocr.azurewebsites.net",
+
+"CSV_Path" : "C:\\Users\\Shubham Singh\\Desktop\\MY_PROJECTS\\UIpath project\\RPA_Challenege_ImageExtraction\\Data\\example.csv",
+"CSV_SheetName" : "example",
+
+}

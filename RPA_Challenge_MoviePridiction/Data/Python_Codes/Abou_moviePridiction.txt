@@ -1,0 +1,28 @@
+Hi Eskaff,
+
+I have completed this task by using uipath, AI model and javascript.
+You need to apply javascript for dynamic click on negative and positive button
+I have attached my code please go through it may be it will help you to solve your problem.
+
+I have also posted video and about the challenge in linkdin.
+here is the link : https://www.linkedin.com/posts/shubham-singh-rawat_rpa-javascript-artificialintelligence-activity-6620249153177964545-5DYo
+
+feel free to ask any query you have related to challenge.
+
+Please share your review on my code and ffeel free to ask any query you have related to challenge.
+Thanks and BR,
+Shubham
+
+Integration of 3 techs.. #Rpa #javascript #artificialintelligence
+Glad to let you all know that I have completed RPA challenge of predicting movie reviews in just 12 seconds with high accuracy. 
+Steps that bot performs
+1. Navigate to RPA challenge website (link https://lnkd.in/d_ra6BB) 
+2. Select random top 3 movies and read each reviews. 
+3. Predict if review is positive or negative with the help of #AI model. 
+4. After predicting review from AI model, #javascript is used to click  on positive or negative button respectively.
+5. All application and business error handled by bot #uipath
+
+Scope Of Improvement: Accuracy of AI Model can be improved.
+
+Below is the video of the RPA challenge. 
+Check it out. 

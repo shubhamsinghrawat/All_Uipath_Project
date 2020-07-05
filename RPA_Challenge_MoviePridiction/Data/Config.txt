@@ -1,0 +1,13 @@
+{
+
+"Project_Name" : "RPA Challenge",
+
+"Exception_excelpath" : ""C:\\Users\\Shubham Singh\\Desktop\\MY_PROJECTS\\UIpath project\\RPA_Challenge_MoviePridiction\\Data\Exception_Excel.xlsx"",
+"Exception_excelsheet":"exception",
+
+"Web_Link": "http://www.rpachallenge.com//movieSearch",
+
+"API_Call" : "http://localhost:9000/",
+
+"js_path" : "C:\\Users\\Shubham Singh\\Documents\\UiPath\\Lets_Play\\Data\\jscript.js",
+}
